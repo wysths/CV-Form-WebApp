@@ -1,0 +1,3 @@
+com\cvapp\model\CV.class
+com\cvapp\controller\CVController.class
+com\cvapp\controller\ExampleCVController.class

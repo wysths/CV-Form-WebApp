@@ -1,0 +1,13 @@
+/*
+ * style.css - Global fallback styles
+ * Main styling is handled inline in each JSP and via Tailwind CDN.
+ * This file can be used to override or extend styles as needed.
+ */
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Arial, sans-serif;
+}
